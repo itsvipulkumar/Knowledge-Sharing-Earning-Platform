@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* font-family: "Segoe UI", Arial, sans-serif; */
+}
+
+html{
+  font-size: 62.5%;
+  background-color: #fafafa;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.navbar
+{
+/* border-radius: 40px; */
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
